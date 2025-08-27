@@ -54,10 +54,6 @@ jupyter notebook
   * Game distribution.
   * Winners distribution.
   * Jackpot trends over time (years).
-* ML results:
-
-  * Root Mean Squared Error (RMSE).
-  * R² Score.
 
 ## Future Improvements
 
