@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project performs **data cleaning, preprocessing, exploratory data analysis (EDA)** on a lotto dataset. The dataset contains historical draw results including winning numbers, jackpot amounts, winners, and game types.
+This experiment performs **data cleaning, preprocessing, exploratory data analysis (EDA)** on a lotto dataset. The dataset contains historical draw results including winning numbers, jackpot amounts, winners, and game types.
 
 ## Features
 
@@ -45,7 +45,7 @@ conda activate
 jupyter notebook
 ```
 
-3. Choose the ```bash lotto.ipynb```
+3. Choose the ```lotto.ipynb```
 
 ## Output
 
